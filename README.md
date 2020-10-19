@@ -1,5 +1,4 @@
-# Tax-Fraud-Detection
-Fraud Detection using unsupervised learning algorithms
+# Tax Fraud Detection using unsupervised learning algorithms
 
 ### Problem Statement :
 We have given 1,070,994 records of properties across the city of New York with detailed information about their locations, estimated values, lot and building sizes, owners, number of stories, building and tax classes etc, as training data and we needed to Detect anomalies and Tax fraud in these records.
