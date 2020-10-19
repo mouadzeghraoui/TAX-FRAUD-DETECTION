@@ -13,3 +13,5 @@ We have given 1,070,994 records of properties across the city of New York with d
 * Results: Analysis and investigation of Top 10 Anomalous Records
 ### Challenges
 * Unlabelled data
+
+![](/Images/pca.png)
